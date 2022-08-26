@@ -1,4 +1,6 @@
-# library-app
+# library-client
+
+Web Client for the [library](https://github.com/CallumKerrEdwards/library) application.
 
 ## Project setup
 ```
