@@ -1,6 +1,7 @@
 # library-client
 
 Web Client for the [library](https://github.com/CallumKerrEdwards/library) application.
+Currently the UI only reads from the API, it does not write.
 
 ## Project setup
 ```
